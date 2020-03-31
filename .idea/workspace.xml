@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ff460c4-fcf8-4c91-b916-406ab420fb80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/02-creating-cluster-using-minikube/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/02-creating-cluster-using-minikube/solution/solution.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/03-creating-inspecting-pod/instructions.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/03-creating-inspecting-pod/solution/solution.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/01-creating-inspecting-pod/instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/01-creating-cluster-using-the-cloud/instructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/01-creating-inspecting-pod/solution/solution.md" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/01-creating-cluster-using-the-cloud/solution/solution.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/02-creating-using-configmap/instructions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/02-creating-using-configmap/solution/solution.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585641277823</updated>
-      <workItem from="1585641279977" duration="2489000" />
+      <workItem from="1585641279977" duration="2816000" />
     </task>
     <servers />
   </component>
